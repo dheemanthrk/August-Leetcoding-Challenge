@@ -1,4 +1,4 @@
 # August-Leetcoding-Challenge
 
-Solutions in java and python
+Solutions to august leetcoding challenge in java and python
     
